@@ -6,15 +6,12 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot ....😜</b>
+<b>Am Just A Advance Auto Filter Bot Of Movie🎬HUB🍿....😉
 
-<b>type /help for help....😍</b>
-
-<b>You can also make bot like me 😌...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+Dont Forget To Join Our Group🔥🔥🔥😝
+Sorry You Can't Add Me to Your GROUP😏😛
+For More Details Click Help Button Below..
+@MovieHUB_Chat_Group</b>"""    
     
     HELP_TEXT = """
 <b>make this bot admin in your channel</b>
@@ -46,18 +43,18 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
+<b><a href="https://t.me/MovieHUB_Chat_Group">© MovieHUB_Chat_Group</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/MovieHUB_Chat_Group">🎖MovieHUB🎖</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS">👤SaMods</a></b>
+<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/MovieHUB_Chat_Group">💥Click Me</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
+<b>➥ 📚Library</b> : <b><a href="https://t.me/MovieHUB_Chat_Group">💥Click Me </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/MovieHUB_Chat_Group">💥Click Me</a></b>
 """
