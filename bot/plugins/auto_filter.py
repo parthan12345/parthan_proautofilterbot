@@ -153,7 +153,7 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("»»»", callback_data=f"navigate(0|next|{query})")
+                    InlineKeyboardButton("Go to next page⏩", callback_data=f"navigate(0|next|{query})")
                 ]
             )
         
