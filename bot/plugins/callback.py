@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/sunaif_adkar"
+                    "My Dev ⚡", url="https://t.me/MovieHUB_Chat_Group"
                 ),
                 
             InlineKeyboardButton
@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/sunaif_adkar'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/MovieHUB_Chat_Group'),
+            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/MovieHUB_Chat_Group')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/sabotschannel/11')
+            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/MovieHUB_Chat_Group'),
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/MovieHUB_Chat_Group')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/MovieHUB_Chat_Group')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 SUNAIF ADKAR', url='https://t.me/sunaif_adkar'),
-            InlineKeyboardButton('Support 👤', url='https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS')
+            InlineKeyboardButton('🎖 MovieHUB 🎖', url='https://t.me/MovieHUB_Chat_Group'),
+            InlineKeyboardButton('Support 👤', url='https://t.me/MovieHUB_Chat_Group')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/MovieHUB_Chat_Group')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
