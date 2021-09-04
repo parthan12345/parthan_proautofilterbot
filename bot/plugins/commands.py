@@ -54,7 +54,14 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = f"{file_name} \n @MovieHUB_Chat_Group",
+                caption = f"{file_name} \n \n ɢʀᴏᴜᴘ  ➧  @MovieHUB_Chat_Group
+ɢʀᴏᴜᴘ  ➧ @MH_Chat_Group
+ᴄʜᴀɴɴᴇʟ ➧ @MovieHUB_Update_Channel
+ᴄʜᴀɴɴᴇʟ ➧ @MH_Links_Channel
+
+♻️𝙅𝙊𝙄𝙉 :- ★ @MovieHUB_Chat_Group ★ 
+
+❣️ ʝσιи  🎗 ѕнαяє 🎗 ѕυρρσят ❣️",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
